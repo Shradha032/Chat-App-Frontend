@@ -1,4 +1,4 @@
-import React from "react"
+
 import userAvatar from "../../assets/user.png"
 import useConversation from "../../zustand/useConversation"
 import { useSocketContext } from "../../context/SocketContext"
